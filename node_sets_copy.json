@@ -1,0 +1,51 @@
+{
+  "single_cells": {
+    "population": "single_cells",
+    "model_type": "biophysical"
+  },
+
+  "individual-100": {
+    "population": "single_cells",
+    "model_type": "biophysical",
+    "node_type_id": "100"
+  },
+
+  "rheobase-290": {
+    "population": "single_cells",
+    "node_type_id": [6]
+  },
+
+  "rheobase-70": {
+    "population": "single_cells",
+    "node_type_id": [5, 1]
+  },
+
+  "rheobase-90": {
+    "population": "single_cells",
+    "node_type_id": [0]
+  },
+
+  "rheobase-130": {
+    "population": "single_cells",
+    "node_type_id": [10, 4, 9]
+  },
+
+  "rheobase-50": {
+    "population": "single_cells",
+    "node_type_id": [2, 8]
+  },
+
+  "rheobase-20": {
+    "population": "single_cells",
+    "node_type_id": [3]
+  },
+
+  "rheobase-250": {
+    "population": "single_cells",
+    "node_type_id": [7]
+  },
+
+  "recorded_cells":{
+    "gids": [0]
+  }
+}

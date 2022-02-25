@@ -1,0 +1,2 @@
+node_type_id ei model_type model_name model_template morphology model_processing
+100 i biophysical 497229152_all-active nml:Cell_497229152.cell.nml Sst-IRES-Cre;Ai14-167638.05.02.01_501934125_m aibs_perisomatic

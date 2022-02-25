@@ -1,0 +1,231 @@
+{
+    "single_cells": {
+        "population": "single_cells",
+        "model_type": "biophysical"
+    },
+    "recorded_cells": {
+        "gids": [
+            0
+        ]
+    },
+    "rheobase-20": {
+        "population": "single_cells",
+        "node_type_id": [
+            28
+        ]
+    },
+    "rheobase-29": {
+        "population": "single_cells",
+        "node_type_id": [
+            1
+        ]
+    },
+    "rheobase-30": {
+        "population": "single_cells",
+        "node_type_id": [
+            30,
+            44,
+            45,
+            58
+        ]
+    },
+    "rheobase-50": {
+        "population": "single_cells",
+        "node_type_id": [
+            2
+        ]
+    },
+    "rheobase-60": {
+        "population": "single_cells",
+        "node_type_id": [
+            61
+        ]
+    },
+    "rheobase-70": {
+        "population": "single_cells",
+        "node_type_id": [
+            8,
+            13,
+            23,
+            29,
+            40,
+            42,
+            47,
+            56,
+            70
+        ]
+    },
+    "rheobase-90": {
+        "population": "single_cells",
+        "node_type_id": [
+            4,
+            12,
+            26,
+            46,
+            64,
+            84
+        ]
+    },
+    "rheobase-110": {
+        "population": "single_cells",
+        "node_type_id": [
+            9,
+            21,
+            69,
+            74,
+            85
+        ]
+    },
+    "rheobase-119": {
+        "population": "single_cells",
+        "node_type_id": [
+            14
+        ]
+    },
+    "rheobase-120": {
+        "population": "single_cells",
+        "node_type_id": [
+            48
+        ]
+    },
+    "rheobase-130": {
+        "population": "single_cells",
+        "node_type_id": [
+            0
+        ]
+    },
+    "rheobase-140": {
+        "population": "single_cells",
+        "node_type_id": [
+            60,
+            65
+        ]
+    },
+    "rheobase-150": {
+        "population": "single_cells",
+        "node_type_id": [
+            75,
+            82,
+            83
+        ]
+    },
+    "rheobase-170": {
+        "population": "single_cells",
+        "node_type_id": [
+            7,
+            27,
+            50,
+            52,
+            68,
+            77,
+            80
+        ]
+    },
+    "rheobase-190": {
+        "population": "single_cells",
+        "node_type_id": [
+            3,
+            24,
+            53,
+            54,
+            81
+        ]
+    },
+    "rheobase-209": {
+        "population": "single_cells",
+        "node_type_id": [
+            43
+        ]
+    },
+    "rheobase-210": {
+        "population": "single_cells",
+        "node_type_id": [
+            5,
+            31,
+            32
+        ]
+    },
+    "rheobase-230": {
+        "population": "single_cells",
+        "node_type_id": [
+            17,
+            33
+        ]
+    },
+    "rheobase-249": {
+        "population": "single_cells",
+        "node_type_id": [
+            10,
+            34,
+            87
+        ]
+    },
+    "rheobase-250": {
+        "population": "single_cells",
+        "node_type_id": [
+            16
+        ]
+    },
+    "rheobase-270": {
+        "population": "single_cells",
+        "node_type_id": [
+            38
+        ]
+    },
+    "rheobase-290": {
+        "population": "single_cells",
+        "node_type_id": [
+            37,
+            39
+        ]
+    },
+    "rheobase-300": {
+        "population": "single_cells",
+        "node_type_id": [
+            35
+        ]
+    },
+    "rheobase-310": {
+        "population": "single_cells",
+        "node_type_id": [
+            66
+        ]
+    },
+    "rheobase-320": {
+        "population": "single_cells",
+        "node_type_id": [
+            11
+        ]
+    },
+    "rheobase-330": {
+        "population": "single_cells",
+        "node_type_id": [
+            76,
+            79
+        ]
+    },
+    "rheobase-350": {
+        "population": "single_cells",
+        "node_type_id": [
+            18
+        ]
+    },
+    "rheobase-370": {
+        "population": "single_cells",
+        "node_type_id": [
+            36
+        ]
+    },
+    "rheobase-390": {
+        "population": "single_cells",
+        "node_type_id": [
+            88
+        ]
+    },
+    "rheobase-400": {
+        "population": "single_cells",
+        "node_type_id": [
+            73
+        ]
+    }
+}

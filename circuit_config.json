@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "$NETWORK_DIR": "./network",
+        "$COMPONENT_DIR": "../sonata/shared_components"
+    },
+    "components": {
+        "morphologies_dir": "./morphologies",
+        "synaptic_models_dir": "$COMPONENT_DIR/synaptic_models",
+        "mechanisms_dir": "./mechanisms",
+        "biophysical_neuron_models_dir": "./biophysical_neuron_templates"
+    },
+    "networks": {
+        "nodes": [
+            {
+                "nodes_file": "$NETWORK_DIR/single_cells_3_nodes.h5",
+                "node_types_file": "$NETWORK_DIR/single_cells_3_node_types.csv"
+            }
+        ]
+    }
+}

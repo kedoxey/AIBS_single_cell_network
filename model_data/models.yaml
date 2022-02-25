@@ -1,0 +1,3183 @@
+all-active:
+- ? ''
+  : '7'
+  cre_lines: Pvalb-IRES-Cre;Ai14-212813.03.01.01
+  id: '496497595'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-212813.03.01.01
+  neuron_reconstruction_id: '496163999'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '487667205'
+- ? ''
+  : '22'
+  cre_lines: Sst-IRES-Cre;Ai14-183332.05.02.01
+  id: '501349536'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-183332.05.02.01
+  neuron_reconstruction_id: '486041253'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475049291'
+- ? ''
+  : '23'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197851.05.02.01
+  id: '497232419'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-197851.05.02.01
+  neuron_reconstruction_id: '492413372'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '480353286'
+- ? ''
+  : '25'
+  cre_lines: Pvalb-IRES-Cre;Ai14-176852.02.02.01
+  id: '501349477'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-176852.02.02.01
+  neuron_reconstruction_id: '495889701'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '333785935'
+- ? ''
+  : '26'
+  cre_lines: Htr3a-Cre
+  id: '496930419'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-192819.04.02.01
+  neuron_reconstruction_id: '491119743'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '478107198'
+- ? ''
+  : '27'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-168093.03.02.01
+  id: '497229117'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg3-Cre;Ai14-168093.03.02.01
+  neuron_reconstruction_id: '491119592'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '314831019'
+- ? ''
+  : '28'
+  cre_lines: Pvalb-IRES-Cre;Ai14-169125.03.01.01
+  id: '497229103'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-169125.03.01.01
+  neuron_reconstruction_id: '491119617'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '318331342'
+- ? ''
+  : '29'
+  cre_lines: Sst-IRES-Cre;Ai14-187427.04.01.01
+  id: '497232791'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-187427.04.01.01
+  neuron_reconstruction_id: '491119894'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '476104386'
+- ? ''
+  : '30'
+  cre_lines: Pvalb-IRES-Cre;Ai14-195045.05.02.01
+  id: '497232557'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-195045.05.02.01
+  neuron_reconstruction_id: '491119688'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '478793814'
+- ? ''
+  : '38'
+  cre_lines: Rbp4-Cre
+  id: '497232312'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rbp4-Cre_KL100;Ai14-203498.04.02.01
+  neuron_reconstruction_id: '496001061'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '485574832'
+- ? ''
+  : '39'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-170426.03.01.01
+  id: '497229082'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg3-Cre;Ai14-170426.03.01.01
+  neuron_reconstruction_id: '491392845'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '320207387'
+- ? ''
+  : '43'
+  cre_lines: Nr5a1-Cre;Ai14-177334.05.01.01
+  id: '497233285'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Nr5a1-Cre;Ai14-177334.05.01.01
+  neuron_reconstruction_id: '491459171'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '386049446'
+- ? ''
+  : '45'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-194322.05.02.01
+  id: '497232564'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-194322.05.02.01
+  neuron_reconstruction_id: '492413664'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '478586295'
+- ? ''
+  : '46'
+  cre_lines: Htr3a-Cre
+  id: '515175225'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-209863.05.01.01
+  neuron_reconstruction_id: '496163988'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '487099387'
+- ? ''
+  : '49'
+  cre_lines: Htr3a-Cre
+  id: '497233230'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-178910.03.01.01
+  neuron_reconstruction_id: '491120333'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '464188580'
+- ? ''
+  : '51'
+  cre_lines: Htr3a-Cre
+  id: '497232406'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-198254.03.02.01
+  neuron_reconstruction_id: '491119526'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '481001895'
+- ? ''
+  : '52'
+  cre_lines: Nr5a1-Cre;Ai14-177333.03.01.01
+  id: '497233292'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Nr5a1-Cre;Ai14-177333.03.01.01
+  neuron_reconstruction_id: '491771090'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '382982932'
+- ? ''
+  : '53'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-168052.03.02.01
+  id: '497229138'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-168052.03.02.01
+  neuron_reconstruction_id: '491770140'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '314642645'
+- ? ''
+  : '56'
+  cre_lines: Pvalb-IRES-Cre;Ai14-202470.03.02.01
+  id: '515175347'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-202470.03.02.01
+  neuron_reconstruction_id: '505202170'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '485184849'
+- ? ''
+  : '57'
+  cre_lines: Scnn1a-Tg2-Cre;Ai14-171062.06.02.01
+  id: '497229075'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg2-Cre;Ai14-171062.06.02.01
+  neuron_reconstruction_id: '491119500'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '320668879'
+- ? ''
+  : '58'
+  cre_lines: Cux2-CreERT2;Ai14-207761.04.02.01
+  id: '515175253'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Cux2-CreERT2;Ai14-207761.04.02.01
+  neuron_reconstruction_id: '506798042'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '486262299'
+- ? ''
+  : '61'
+  cre_lines: Htr3a-Cre
+  id: '497232872'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-185555.03.01.01
+  neuron_reconstruction_id: '491119960'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475622680'
+- ? ''
+  : '63'
+  cre_lines: Htr3a-Cre
+  id: '497233110'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-178904.04.01.01
+  neuron_reconstruction_id: '491120305'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '469753383'
+- ? ''
+  : '66'
+  cre_lines: Sst-IRES-Cre;Ai14-188740.03.02.01
+  id: '497232660'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-188740.03.02.01
+  neuron_reconstruction_id: '491119369'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '476686112'
+- ? ''
+  : '69'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-177297.05.02.01
+  id: '497233139'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg3-Cre;Ai14-177297.05.02.01
+  neuron_reconstruction_id: '495335458'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '468120757'
+- ? ''
+  : '72'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197353.06.02.01
+  id: '496930324'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-197353.06.02.01
+  neuron_reconstruction_id: '496079587'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '480169178'
+- ? ''
+  : '73'
+  cre_lines: Sst-IRES-Cre;Ai14-165865.05.02.01
+  id: '497233216'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-165865.05.02.01
+  neuron_reconstruction_id: '491119537'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '464212183'
+- ? ''
+  : '80'
+  cre_lines: Rbp4-Cre
+  id: '497233049'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rbp4-Cre_KL100;Ai14-180747.06.01.01
+  neuron_reconstruction_id: '495335491'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '471129934'
+- ? ''
+  : '84'
+  cre_lines: Pvalb-IRES-Cre;Ai14-176847.04.02.01
+  id: '497230497'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-176847.04.02.01
+  neuron_reconstruction_id: '491120133'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '330080937'
+- ? ''
+  : '90'
+  cre_lines: Pvalb-IRES-Cre;Ai14-201773.04.01.01
+  id: '496538958'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-201773.04.01.01
+  neuron_reconstruction_id: '496079434'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '484742372'
+- ? ''
+  : '91'
+  cre_lines: Htr3a-Cre
+  id: '497232880'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-185347.03.02.01
+  neuron_reconstruction_id: '492100857'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475585413'
+- ? ''
+  : '92'
+  cre_lines: Pvalb-IRES-Cre;Ai14-176848.03.01.01
+  id: '497230490'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-176848.03.01.01
+  neuron_reconstruction_id: '491119484'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '333604946'
+- ? ''
+  : '99'
+  cre_lines: Pvalb-IRES-Cre;Ai14-180633.05.01.01
+  id: '497233075'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-180633.05.01.01
+  neuron_reconstruction_id: '491119234'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '471077857'
+- ? ''
+  : '105'
+  cre_lines: Sst-IRES-Cre;Ai14-183332.06.02.01
+  id: '497232911'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-183332.06.02.01
+  neuron_reconstruction_id: '495889919'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475068599'
+- ? ''
+  : '109'
+  cre_lines: Pvalb-IRES-Cre;Ai14-177452.03.02.01
+  id: '497233271'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-177452.03.02.01
+  neuron_reconstruction_id: '491119336'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '396608557'
+- ? ''
+  : '110'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-181715.04.01.01
+  id: '497232946'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-181715.04.01.01
+  neuron_reconstruction_id: '491392833'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '473601979'
+- ? ''
+  : '111'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-177297.06.01.01
+  id: '497233125'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg3-Cre;Ai14-177297.06.01.01
+  neuron_reconstruction_id: '491120155'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '468193142'
+- ? ''
+  : '112'
+  cre_lines: Pvalb-IRES-Cre;Ai14-199001.04.02.01
+  id: '497232392'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-199001.04.02.01
+  neuron_reconstruction_id: '491119245'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '482516713'
+- ? ''
+  : '115'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-206927.04.01.01
+  id: '496490646'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-206927.04.01.01
+  neuron_reconstruction_id: '496253700'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '486502127'
+- ? ''
+  : '120'
+  cre_lines: Gad2-IRES-Cre;Ai14-172679.05.01.01
+  id: '497230620'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Gad2-IRES-Cre;Ai14-172679.05.01.01
+  neuron_reconstruction_id: '491119788'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '323540736'
+- ? ''
+  : '124'
+  cre_lines: Nr5a1-Cre;Ai14-178521.04.02.01
+  id: '497233244'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Nr5a1-Cre;Ai14-178521.04.02.01
+  neuron_reconstruction_id: '492100683'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '422738880'
+- ? ''
+  : '125'
+  cre_lines: Pvalb-IRES-Cre;Ai14-177452.03.01.01
+  id: '497233117'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-177452.03.01.01
+  neuron_reconstruction_id: '491120251'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '469610831'
+- ? ''
+  : '129'
+  cre_lines: Sst-IRES-Cre;Ai14-182533.03.01.01
+  id: '497232978'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-182533.03.01.01
+  neuron_reconstruction_id: '491770708'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '473540161'
+- ? ''
+  : '130'
+  cre_lines: Htr3a-Cre
+  id: '497232858'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-185556.06.01.01
+  neuron_reconstruction_id: '492413499'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475744706'
+- ? ''
+  : '132'
+  cre_lines: Htr3a-Cre
+  id: '501349527'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-200441.05.01.01
+  neuron_reconstruction_id: '492414382'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '482516216'
+- ? ''
+  : '134'
+  cre_lines: Pvalb-IRES-Cre;Ai14-180634.04.01.01
+  id: '497233061'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-180634.04.01.01
+  neuron_reconstruction_id: '495335480'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '471087830'
+- ? ''
+  : '136'
+  cre_lines: Pvalb-IRES-Cre;Ai14-172101.05.01.01
+  id: '501349572'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-172101.05.01.01
+  neuron_reconstruction_id: '491119699'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '321707905'
+- ? ''
+  : '137'
+  cre_lines: Pvalb-IRES-Cre;Ai14-172096.04.02.01
+  id: '497233089'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-172096.04.02.01
+  neuron_reconstruction_id: '491119732'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '469801569'
+- ? ''
+  : '140'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-194017.03.01.01
+  id: '497232507'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-194017.03.01.01
+  neuron_reconstruction_id: '491770945'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '479179020'
+- ? ''
+  : '141'
+  cre_lines: Nr5a1-Cre;Ai14-172512.06.02.01
+  id: '497229054'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Nr5a1-Cre;Ai14-172512.06.02.01
+  neuron_reconstruction_id: '491120144'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '321923685'
+- ? ''
+  : '142'
+  cre_lines: Cux2-CreERT2;Ai14-207760.03.01.01
+  id: '496538888'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Cux2-CreERT2;Ai14-207760.03.01.01
+  neuron_reconstruction_id: '496163976'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '486239338'
+- ? ''
+  : '143'
+  cre_lines: Sst-IRES-Cre;Ai14-199390.05.01.01
+  id: '497232373'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-199390.05.01.01
+  neuron_reconstruction_id: '492101025'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '482690728'
+- ? ''
+  : '145'
+  cre_lines: Sst-IRES-Cre;Ai14-167638.05.02.01
+  id: '497229152'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-167638.05.02.01
+  neuron_reconstruction_id: '501934125'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '313862167'
+- ? ''
+  : '150'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-192794.05.01.01
+  id: '497232571'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-192794.05.01.01
+  neuron_reconstruction_id: '492413653'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '478499902'
+- ? ''
+  : '153'
+  cre_lines: Sst-IRES-Cre;Ai14-202726.05.02.01
+  id: '496538944'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-202726.05.02.01
+  neuron_reconstruction_id: '496123885'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '485058595'
+- ? ''
+  : '154'
+  cre_lines: Gad2-IRES-Cre;Ai14-177637.02.02.01
+  id: '497233264'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Gad2-IRES-Cre;Ai14-177637.02.02.01
+  neuron_reconstruction_id: '491771124'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '396968721'
+- ? ''
+  : '158'
+  cre_lines: Htr3a-Cre
+  id: '501349545'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-175479.06.02.01
+  neuron_reconstruction_id: '491120359'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '327644217'
+- ? ''
+  : '161'
+  cre_lines: Pvalb-IRES-Cre;Ai14-185362.03.01.01
+  id: '501349504'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-185362.03.01.01
+  neuron_reconstruction_id: '491119982'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475549334'
+- ? ''
+  : '164'
+  cre_lines: Htr3a-Cre
+  id: '497232925'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-182004.05.02.01
+  neuron_reconstruction_id: '491120373'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '474626527'
+- ? ''
+  : '165'
+  cre_lines: Sst-IRES-Cre;Ai14-202729.03.02.01
+  id: '496538951'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-202729.03.02.01
+  neuron_reconstruction_id: '496079506'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '485466109'
+- ? ''
+  : '171'
+  cre_lines: Htr3a-Cre
+  id: '497232492'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-195039.04.02.01
+  neuron_reconstruction_id: '491119581'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '479220013'
+- ? ''
+  : '173'
+  cre_lines: Slc17a6-IRES-Cre;Ai14-190263.04.01.01
+  id: '497232641'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Slc17a6-IRES-Cre;Ai14-190263.04.01.01
+  neuron_reconstruction_id: '491392956'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '477127614'
+- ? ''
+  : '178'
+  cre_lines: Htr3a-Cre
+  id: '497232865'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-185553.05.01.01
+  neuron_reconstruction_id: '491119938'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475622793'
+- ? ''
+  : '180'
+  cre_lines: Gad2-IRES-Cre;Ai14-172679.03.01.01
+  id: '501349520'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Gad2-IRES-Cre;Ai14-172679.03.01.01
+  neuron_reconstruction_id: '491119949'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '323535089'
+- ? ''
+  : '181'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-204766.03.02.01
+  id: '515175291'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-204766.03.02.01
+  neuron_reconstruction_id: '510988665'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '485931158'
+- ? ''
+  : '182'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197851.04.01.01
+  id: '497232429'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-197851.04.01.01
+  neuron_reconstruction_id: '491770985'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '480351780'
+- ? ''
+  : '183'
+  cre_lines: Nr5a1-Cre;Ai14-177334.05.02.01
+  id: '527109578'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Nr5a1-Cre;Ai14-177334.05.02.01
+  neuron_reconstruction_id: '527109106'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '386970660'
+- ? ''
+  : '185'
+  cre_lines: Sst-IRES-Cre;Ai14-165865.03.01.01
+  id: '497233223'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-165865.03.01.01
+  neuron_reconstruction_id: '491119181'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '464198958'
+- ? ''
+  : '186'
+  cre_lines: Rbp4-Cre
+  id: '491766131'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rbp4-Cre_KL100;Ai14-203503.04.01.01
+  neuron_reconstruction_id: '527109145'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '488683425'
+- ? ''
+  : '187'
+  cre_lines: Cux2-CreERT2;Ai14-198018.04.01.01
+  id: '515175354'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Cux2-CreERT2;Ai14-198018.04.01.01
+  neuron_reconstruction_id: '514351601'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '483101699'
+- ? ''
+  : '190'
+  cre_lines: Htr3a-Cre
+  id: '497232593'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-192821.05.01.01
+  neuron_reconstruction_id: '491771409'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '478110866'
+- ? ''
+  : '192'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-181710.05.02.01
+  id: '497232985'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-181710.05.02.01
+  neuron_reconstruction_id: '491771275'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '473020156'
+- ? ''
+  : '197'
+  cre_lines: Pvalb-IRES-Cre;Ai14-180633.04.01.01
+  id: '497233068'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-180633.04.01.01
+  neuron_reconstruction_id: '491771159'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '471085676'
+- ? ''
+  : '199'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-204764.04.01.01
+  id: '497232298'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-204764.04.01.01
+  neuron_reconstruction_id: '496001039'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '485836906'
+- ? ''
+  : '206'
+  cre_lines: Pvalb-IRES-Cre;Ai14-178310.02.01.01
+  id: '497230463'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-178310.02.01.01
+  neuron_reconstruction_id: '513557093'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '341442651'
+- ? ''
+  : '207'
+  cre_lines: Pvalb-IRES-Cre;Ai14-201791.05.01.01
+  id: '496538965'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-201791.05.01.01
+  neuron_reconstruction_id: '496079599'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '484635029'
+- ? ''
+  : '210'
+  cre_lines: Sst-IRES-Cre;Ai14-167636.04.01.01
+  id: '497229145'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-167636.04.01.01
+  neuron_reconstruction_id: '491119515'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '313862306'
+- ? ''
+  : '213'
+  cre_lines: Pvalb-IRES-Cre;Ai14-212440.05.02.01
+  id: '501282059'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-212440.05.02.01
+  neuron_reconstruction_id: '500961631'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '488501071'
+- ? ''
+  : '214'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-177300.01.02.01
+  id: '497233278'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg3-Cre;Ai14-177300.01.02.01
+  neuron_reconstruction_id: '491771068'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '395830185'
+- ? ''
+  : '216'
+  cre_lines: Htr3a-Cre
+  id: '497232932'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-182497.03.01.01
+  neuron_reconstruction_id: '491119305'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '474267418'
+- ? ''
+  : '218'
+  cre_lines: Nr5a1-Cre;Ai14-172512.05.01.01
+  id: '497229061'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Nr5a1-Cre;Ai14-172512.05.01.01
+  neuron_reconstruction_id: '495334973'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '321906005'
+- ? ''
+  : '220'
+  cre_lines: Sst-IRES-Cre;Ai14-179870.04.01.01
+  id: '497233162'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-179870.04.01.01
+  neuron_reconstruction_id: '491120344'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '466664172'
+- ? ''
+  : '222'
+  cre_lines: Slc17a6-IRES-Cre;Ai14-190263.06.01.01
+  id: '497232629'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Slc17a6-IRES-Cre;Ai14-190263.06.01.01
+  neuron_reconstruction_id: '491771398'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '477135941'
+- ? ''
+  : '225'
+  cre_lines: Pvalb-IRES-Cre;Ai14-191322.04.02.01
+  id: '497232617'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-191322.04.02.01
+  neuron_reconstruction_id: '491119269'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '478058328'
+- ? ''
+  : '228'
+  cre_lines: Rbp4-Cre
+  id: '515175260'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rbp4-Cre_KL100;Ai14-205727.02.02.01
+  neuron_reconstruction_id: '512328534'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '486132712'
+- ? ''
+  : '229'
+  cre_lines: Sst-IRES-Cre;Ai14-173191.06.02.01
+  id: '497230567'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-173191.06.02.01
+  neuron_reconstruction_id: '491119812'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '324266189'
+- ? ''
+  : '232'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-168053.06.01.01
+  id: '497229124'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-168053.06.01.01
+  neuron_reconstruction_id: '495334938'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '314822529'
+- ? ''
+  : '238'
+  cre_lines: Nr5a1-Cre;Ai14-187780.03.02.01
+  id: '497232692'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Nr5a1-Cre;Ai14-187780.03.02.01
+  neuron_reconstruction_id: '491253858'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '476457450'
+- ? ''
+  : '240'
+  cre_lines: Htr3a-Cre
+  id: '497230511'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-175482.03.02.01
+  neuron_reconstruction_id: '491119419'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '327962063'
+- ? ''
+  : '241'
+  cre_lines: Scnn1a-Tg2-Cre;Ai14-176962.05.01.01
+  id: '497233307'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg2-Cre;Ai14-176962.05.01.01
+  neuron_reconstruction_id: '495335447'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '354190013'
+- ? ''
+  : '242'
+  cre_lines: Htr3a-Cre
+  id: '497232939'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Htr3a-Cre_NO152;Ai14-182494.05.01.01
+  neuron_reconstruction_id: '492100793'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '473943881'
+- ? ''
+  : '243'
+  cre_lines: Sst-IRES-Cre;Ai14-183332.05.01.01
+  id: '497232918'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-183332.05.01.01
+  neuron_reconstruction_id: '491771290'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475057898'
+- ? ''
+  : '244'
+  cre_lines: Sst-IRES-Cre;Ai14-173196.03.01.01
+  id: '497230547'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-173196.03.01.01
+  neuron_reconstruction_id: '491770223'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '324493977'
+- ? ''
+  : '246'
+  cre_lines: Nr5a1-Cre;Ai14-169250.03.02.01
+  id: '497229089'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Nr5a1-Cre;Ai14-169250.03.02.01
+  neuron_reconstruction_id: '491119754'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '318808427'
+- ? ''
+  : '247'
+  cre_lines: Sst-IRES-Cre;Ai14-192340.03.01.01
+  id: '497232585'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-192340.03.01.01
+  neuron_reconstruction_id: '491119721'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '478396248'
+- ? ''
+  : '253'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-172530.03.01.01
+  id: '497230611'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg3-Cre;Ai14-172530.03.01.01
+  neuron_reconstruction_id: '491771137'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '323834998'
+- ? ''
+  : '254'
+  cre_lines: Sst-IRES-Cre;Ai14-183338.03.01.01
+  id: '501349486'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Sst-IRES-Cre;Ai14-183338.03.01.01
+  neuron_reconstruction_id: '500912127'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475202388'
+- ? ''
+  : '255'
+  cre_lines: Pvalb-IRES-Cre;Ai14-187029.03.02.01
+  id: '497232848'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Pvalb-IRES-Cre;Ai14-187029.03.02.01
+  neuron_reconstruction_id: '491119916'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '475888653'
+- ? ''
+  : '260'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-187416.05.01.01
+  id: '497232839'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Rorb-IRES2-Cre-D;Ai14-187416.05.01.01
+  neuron_reconstruction_id: '491796267'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '476048909'
+- ? ''
+  : '261'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-187852.04.02.01
+  id: '497232735'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: all_active
+  name: Biophysical - all active_Scnn1a-Tg3-Cre;Ai14-187852.04.02.01
+  neuron_reconstruction_id: '484775243'
+  neuronal_model_template_id: '491455321'
+  specimen_id: '476218657'
+cre-lines:
+- Nr5a1-Cre
+- Rorb-IRES2-Cre-D
+- Ntsr1-Cre
+- Htr3a-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Pvalb-IRES-Cre
+- Cux2-CreERT2
+- Scnn1a-Tg3-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg2-Cre
+- Scnn1a-Tg3-Cre
+- Rbp4-Cre
+- Htr3a-Cre
+- Rbp4-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Rbp4-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Cux2-CreERT2
+- Sst-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Htr3a-Cre
+- Scnn1a-Tg3-Cre
+- Pvalb-IRES-Cre
+- Sst-IRES-Cre
+- Pvalb-IRES-Cre
+- Gad2-IRES-Cre
+- Pvalb-IRES-Cre
+- Rbp4-Cre
+- Nr5a1-Cre
+- Cux2-CreERT2
+- Htr3a-Cre
+- Rorb-IRES2-Cre-D
+- Rbp4-Cre
+- Scnn1a-Tg3-Cre
+- Scnn1a-Tg2-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg2-Cre
+- Nr5a1-Cre
+- Rbp4-Cre
+- Rorb-IRES2-Cre-D
+- Htr3a-Cre
+- Rorb-IRES2-Cre-D
+- Sst-IRES-Cre
+- Htr3a-Cre
+- Sst-IRES-Cre
+- Htr3a-Cre
+- Nr5a1-Cre
+- Rorb-IRES2-Cre-D
+- Rbp4-Cre
+- Rbp4-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg2-Cre
+- Cux2-CreERT2
+- Sst-IRES-Cre
+- Rbp4-Cre
+- Htr3a-Cre
+- Slc17a6-IRES-Cre
+- Htr3a-Cre
+- Rorb-IRES2-Cre-D
+- Sst-IRES-Cre
+- Sst-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Sst-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Cux2-CreERT2
+- Rorb-IRES2-Cre-D
+- Rorb-IRES2-Cre-D
+- Sst-IRES-Cre
+- Pvalb-IRES-Cre
+- Rbp4-Cre
+- Htr3a-Cre
+- Pvalb-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Rbp4-Cre
+- Rbp4-Cre
+- Pvalb-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Cux2-CreERT2
+- Pvalb-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Cux2-CreERT2
+- Scnn1a-Tg3-Cre
+- Gad2-IRES-Cre
+- Nr5a1-Cre
+- Pvalb-IRES-Cre
+- Htr3a-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Nr5a1-Cre
+- Rorb-IRES2-Cre-D
+- Ntsr1-Cre
+- Sst-IRES-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Sst-IRES-Cre
+- Pvalb-IRES-Cre
+- Sst-IRES-Cre
+- Sst-IRES-Cre
+- Scnn1a-Tg2-Cre
+- Pvalb-IRES-Cre
+- Sst-IRES-Cre
+- Pvalb-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Scnn1a-Tg3-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Cux2-CreERT2
+- Rorb-IRES2-Cre-D
+- Pvalb-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Sst-IRES-Cre
+- Nr5a1-Cre
+- Gad2-IRES-Cre
+- Htr3a-Cre
+- Htr3a-Cre
+- Rorb-IRES2-Cre-D
+- Nr5a1-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Nr5a1-Cre
+- Pvalb-IRES-Cre
+- Sst-IRES-Cre
+- Htr3a-Cre
+- Htr3a-Cre
+- Htr3a-Cre
+- Nr5a1-Cre
+- Pvalb-IRES-Cre
+- Sst-IRES-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Sst-IRES-Cre
+- Rbp4-Cre
+- Rorb-IRES2-Cre-D
+- Nr5a1-Cre
+- Cux2-CreERT2
+- Sst-IRES-Cre
+- Nr5a1-Cre
+- Sst-IRES-Cre
+- Sst-IRES-Cre
+- Htr3a-Cre
+- Scnn1a-Tg3-Cre
+- Scnn1a-Tg2-Cre
+- Rorb-IRES2-Cre-D
+- Htr3a-Cre
+- Rbp4-Cre
+- Sst-IRES-Cre
+- Gad2-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Nr5a1-Cre
+- Htr3a-Cre
+- Htr3a-Cre
+- Htr3a-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Sst-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Htr3a-Cre
+- Sst-IRES-Cre
+- Scnn1a-Tg2-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Sst-IRES-Cre
+- Ntsr1-Cre
+- Htr3a-Cre
+- Rorb-IRES2-Cre-D
+- Slc17a6-IRES-Cre
+- Pvalb-IRES-Cre
+- Htr3a-Cre
+- Nr5a1-Cre
+- Rorb-IRES2-Cre-D
+- Htr3a-Cre
+- Rorb-IRES2-Cre-D
+- Gad2-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Rorb-IRES2-Cre-D
+- Nr5a1-Cre
+- Scnn1a-Tg3-Cre
+- Sst-IRES-Cre
+- Rbp4-Cre
+- Cux2-CreERT2
+- Rorb-IRES2-Cre-D
+- Htr3a-Cre
+- Htr3a-Cre
+- Rorb-IRES2-Cre-D
+- Rorb-IRES2-Cre-D
+- Nr5a1-Cre
+- Sst-IRES-Cre
+- Rbp4-Cre
+- Slc17a6-IRES-Cre
+- Pvalb-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Rorb-IRES2-Cre-D
+- Nr5a1-Cre
+- Cux2-CreERT2
+- Scnn1a-Tg3-Cre
+- Pvalb-IRES-Cre
+- Htr3a-Cre
+- Nr5a1-Cre
+- Pvalb-IRES-Cre
+- Pvalb-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Sst-IRES-Cre
+- Sst-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Htr3a-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Rorb-IRES2-Cre-D
+- Htr3a-Cre
+- Scnn1a-Tg3-Cre
+- Nr5a1-Cre
+- Rbp4-Cre
+- Sst-IRES-Cre
+- Rbp4-Cre
+- Slc17a6-IRES-Cre
+- Sst-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Pvalb-IRES-Cre
+- Sst-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Rbp4-Cre
+- Sst-IRES-Cre
+- Sst-IRES-Cre
+- Pvalb-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Rorb-IRES2-Cre-D
+- Rorb-IRES2-Cre-D
+- Sst-IRES-Cre
+- Rbp4-Cre
+- Pvalb-IRES-Cre
+- Nr5a1-Cre
+- Sst-IRES-Cre
+- Htr3a-Cre
+- Scnn1a-Tg2-Cre
+- Htr3a-Cre
+- Sst-IRES-Cre
+- Sst-IRES-Cre
+- Rorb-IRES2-Cre-D
+- Nr5a1-Cre
+- Sst-IRES-Cre
+- Sst-IRES-Cre
+- Cux2-CreERT2
+- Ntsr1-Cre
+- Rbp4-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Sst-IRES-Cre
+- Pvalb-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Sst-IRES-Cre
+- Scnn1a-Tg3-Cre
+- Nr5a1-Cre
+- Rorb-IRES2-Cre-D
+- Scnn1a-Tg3-Cre
+- Pvalb-IRES-Cre
+- Htr3a-Cre
+- Rorb-IRES2-Cre-D
+perisomatic:
+- ? ''
+  : '0'
+  cre_lines: Nr5a1-Cre;Ai14-169250.03.02.01
+  id: '473863035'
+  in_nmldb: 'FALSE'
+  legend: added to models_for_db'
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-169250.03.02.01
+  neuron_reconstruction_id: '491119754'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '318808427'
+- ? ''
+  : '1'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-206927.04.01.01
+  id: '486909496'
+  in_nmldb: 'FALSE'
+  legend: perisomatic models in db'
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-206927.04.01.01
+  neuron_reconstruction_id: '496253700'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486502127'
+- ? ''
+  : '2'
+  cre_lines: Ntsr1-Cre;Ai14-181184.05.01.01
+  id: '472430904'
+  in_nmldb: 'FALSE'
+  legend: all_active version of perisomatic models in db'
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Ntsr1-Cre;Ai14-181184.05.01.01
+  neuron_reconstruction_id: '492413318'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471789504'
+- ? ''
+  : '3'
+  cre_lines: Htr3a-Cre
+  id: '484620556'
+  in_nmldb: 'FALSE'
+  legend: all_active models'
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-200442.05.02.01
+  neuron_reconstruction_id: '495337161'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '482644550'
+- ? ''
+  : '4'
+  cre_lines: Pvalb-IRES-Cre;Ai14-172096.04.02.01
+  id: '473465774'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-172096.04.02.01
+  neuron_reconstruction_id: '491119732'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '469801569'
+- ? ''
+  : '5'
+  cre_lines: Pvalb-IRES-Cre;Ai14-176848.03.01.01
+  id: '472306616'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-176848.03.01.01
+  neuron_reconstruction_id: '491119484'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '333604946'
+- ? ''
+  : '6'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-177297.06.01.01
+  id: '482934212'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-177297.06.01.01
+  neuron_reconstruction_id: '491120155'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '468193142'
+- ? ''
+  : '8'
+  cre_lines: Cux2-CreERT2;Ai14-205221.03.01.01
+  id: '486557284'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-205221.03.01.01
+  neuron_reconstruction_id: '500961566'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486146717'
+- ? ''
+  : '9'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-177297.05.02.01
+  id: '473871773'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-177297.05.02.01
+  neuron_reconstruction_id: '495335458'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '468120757'
+- ? ''
+  : '10'
+  cre_lines: Pvalb-IRES-Cre;Ai14-199001.04.02.01
+  id: '483106906'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-199001.04.02.01
+  neuron_reconstruction_id: '491119245'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '482516713'
+- ? ''
+  : '11'
+  cre_lines: Scnn1a-Tg2-Cre;Ai14-167081.03.02.01
+  id: '473465456'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg2-Cre;Ai14-167081.03.02.01
+  neuron_reconstruction_id: '397905347'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '313862022'
+- ? ''
+  : '12'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-180214.05.01.01
+  id: '473872986'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-180214.05.01.01
+  neuron_reconstruction_id: '491253802'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '469798159'
+- ? ''
+  : '13'
+  cre_lines: Rbp4-Cre
+  id: '486052412'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-203498.04.02.01
+  neuron_reconstruction_id: '496001061'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485574832'
+- ? ''
+  : '14'
+  cre_lines: Htr3a-Cre
+  id: '472421285'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-178910.03.01.01
+  neuron_reconstruction_id: '491120333'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '464188580'
+- ? ''
+  : '15'
+  cre_lines: Rbp4-Cre
+  id: '478513443'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-180748.02.02.01
+  neuron_reconstruction_id: '491771193'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471767045'
+- ? ''
+  : '16'
+  cre_lines: Pvalb-IRES-Cre;Ai14-177452.03.01.01
+  id: '480631286'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-177452.03.01.01
+  neuron_reconstruction_id: '491120251'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '469610831'
+- ? ''
+  : '17'
+  cre_lines: Pvalb-IRES-Cre;Ai14-177452.03.02.01
+  id: '478513407'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-177452.03.02.01
+  neuron_reconstruction_id: '491119336'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '396608557'
+- ? ''
+  : '18'
+  cre_lines: Rbp4-Cre
+  id: '486556597'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-205726.03.02.01
+  neuron_reconstruction_id: '496001094'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486052980'
+- ? ''
+  : '19'
+  cre_lines: Pvalb-IRES-Cre;Ai14-165874.04.02.01
+  id: '471085845'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-165874.04.02.01
+  neuron_reconstruction_id: '491119570'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '313861608'
+- ? ''
+  : '20'
+  cre_lines: Pvalb-IRES-Cre;Ai14-187029.03.02.01
+  id: '478809612'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-187029.03.02.01
+  neuron_reconstruction_id: '491119916'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475888653'
+- ? ''
+  : '21'
+  cre_lines: Cux2-CreERT2;Ai14-205530.03.02.01
+  id: '486509232'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-205530.03.02.01
+  neuron_reconstruction_id: '500961528'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485909730'
+- ? ''
+  : '24'
+  cre_lines: Pvalb-IRES-Cre;Ai14-212809.03.01.01
+  id: '487245869'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-212809.03.01.01
+  neuron_reconstruction_id: '500961658'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486783119'
+- ? ''
+  : '31'
+  cre_lines: Gad2-IRES-Cre;Ai14-172679.05.01.01
+  id: '480630211'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Gad2-IRES-Cre;Ai14-172679.05.01.01
+  neuron_reconstruction_id: '491119788'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '323540736'
+- ? ''
+  : '32'
+  cre_lines: Pvalb-IRES-Cre;Ai14-180634.04.01.01
+  id: '478513441'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-180634.04.01.01
+  neuron_reconstruction_id: '495335480'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471087830'
+- ? ''
+  : '33'
+  cre_lines: Rbp4-Cre
+  id: '486508789'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-204744.04.02.01
+  neuron_reconstruction_id: '508279020'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485838981'
+- ? ''
+  : '34'
+  cre_lines: Nr5a1-Cre;Ai14-177332.03.01.01
+  id: '472442377'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-177332.03.01.01
+  neuron_reconstruction_id: '491120166'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '370351753'
+- ? ''
+  : '35'
+  cre_lines: Cux2-CreERT2;Ai14-198018.04.01.01
+  id: '485513184'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-198018.04.01.01
+  neuron_reconstruction_id: '514351601'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '483101699'
+- ? ''
+  : '36'
+  cre_lines: Htr3a-Cre
+  id: '478513187'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-178904.04.01.01
+  neuron_reconstruction_id: '491120305'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '469753383'
+- ? ''
+  : '37'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197332.06.02.01
+  id: '483108490'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-197332.06.02.01
+  neuron_reconstruction_id: '491771446'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '480114344'
+- ? ''
+  : '40'
+  cre_lines: Scnn1a-Tg2-Cre;Ai14-176958.04.01.01
+  id: '472912107'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg2-Cre;Ai14-176958.04.01.01
+  neuron_reconstruction_id: '491771013'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '348592897'
+- ? ''
+  : '41'
+  cre_lines: Pvalb-IRES-Cre;Ai14-169125.03.01.01
+  id: '473862421'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-169125.03.01.01
+  neuron_reconstruction_id: '491119617'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '318331342'
+- ? ''
+  : '42'
+  cre_lines: Scnn1a-Tg2-Cre;Ai14-176962.05.01.01
+  id: '472306460'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg2-Cre;Ai14-176962.05.01.01
+  neuron_reconstruction_id: '495335447'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '354190013'
+- ? ''
+  : '44'
+  cre_lines: Rbp4-Cre
+  id: '486508758'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-204744.04.01.01
+  neuron_reconstruction_id: '496123897'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485835055'
+- ? ''
+  : '47'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-204764.03.02.01
+  id: '486508702'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-204764.03.02.01
+  neuron_reconstruction_id: '510989433'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485837504'
+- ? ''
+  : '48'
+  cre_lines: Sst-IRES-Cre;Ai14-165865.05.02.01
+  id: '472299363'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-165865.05.02.01
+  neuron_reconstruction_id: '491119537'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '464212183'
+- ? ''
+  : '50'
+  cre_lines: Sst-IRES-Cre;Ai14-184927.03.02.01
+  id: '478043748'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-184927.03.02.01
+  neuron_reconstruction_id: '492100832'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475517090'
+- ? ''
+  : '54'
+  cre_lines: Rbp4-Cre
+  id: '488462820'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-211531.03.01.01
+  neuron_reconstruction_id: '496085294'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '487664663'
+- ? ''
+  : '55'
+  cre_lines: Rbp4-Cre
+  id: '478513445'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-180748.06.01.01
+  neuron_reconstruction_id: '495335436'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471758398'
+- ? ''
+  : '59'
+  cre_lines: Sst-IRES-Cre;Ai14-179870.04.01.01
+  id: '478513461'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-179870.04.01.01
+  neuron_reconstruction_id: '491120344'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '466664172'
+- ? ''
+  : '60'
+  cre_lines: Rbp4-Cre
+  id: '480624126'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-180747.06.02.01
+  neuron_reconstruction_id: '492413283'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471143169'
+- ? ''
+  : '62'
+  cre_lines: Slc17a6-IRES-Cre;Ai14-190263.06.01.01
+  id: '477880244'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Slc17a6-IRES-Cre;Ai14-190263.06.01.01
+  neuron_reconstruction_id: '491771398'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '477135941'
+- ? ''
+  : '64'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-172651.04.01.01
+  id: '480630857'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-172651.04.01.01
+  neuron_reconstruction_id: '491458287'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '324025297'
+- ? ''
+  : '65'
+  cre_lines: Sst-IRES-Cre;Ai14-199390.05.01.01
+  id: '484628276'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-199390.05.01.01
+  neuron_reconstruction_id: '492101025'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '482690728'
+- ? ''
+  : '67'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-168053.06.01.01
+  id: '471087975'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-168053.06.01.01
+  neuron_reconstruction_id: '495334938'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '314822529'
+- ? ''
+  : '68'
+  cre_lines: Sst-IRES-Cre;Ai14-167638.05.02.01
+  id: '471086533'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-167638.05.02.01
+  neuron_reconstruction_id: '501934125'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '313862167'
+- ? ''
+  : '70'
+  cre_lines: Cux2-CreERT2;Ai14-211771.03.01.01
+  id: '488461970'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-211771.03.01.01
+  neuron_reconstruction_id: '496123846'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '487601493'
+- ? ''
+  : '71'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197851.05.02.01
+  id: '483109057'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-197851.05.02.01
+  neuron_reconstruction_id: '492413372'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '480353286'
+- ? ''
+  : '74'
+  cre_lines: Pvalb-IRES-Cre;Ai14-176847.04.02.01
+  id: '472912177'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-176847.04.02.01
+  neuron_reconstruction_id: '491120133'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '330080937'
+- ? ''
+  : '75'
+  cre_lines: Rbp4-Cre
+  id: '488759006'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-211533.05.02.01
+  neuron_reconstruction_id: '505206420'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '488117124'
+- ? ''
+  : '76'
+  cre_lines: Htr3a-Cre
+  id: '472352327'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-175482.03.02.01
+  neuron_reconstruction_id: '491119419'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '327962063'
+- ? ''
+  : '77'
+  cre_lines: Pvalb-IRES-Cre;Ai14-212813.03.01.01
+  id: '488462965'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-212813.03.01.01
+  neuron_reconstruction_id: '496163999'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '487667205'
+- ? ''
+  : '78'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-188712.05.02.01
+  id: '478810017'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-188712.05.02.01
+  neuron_reconstruction_id: '495889950'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476616076'
+- ? ''
+  : '79'
+  cre_lines: Rbp4-Cre
+  id: '488763268'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-212175.03.01.01
+  neuron_reconstruction_id: '505203905'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '488420599'
+- ? ''
+  : '81'
+  cre_lines: Pvalb-IRES-Cre;Ai14-201791.05.01.01
+  id: '485602029'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-201791.05.01.01
+  neuron_reconstruction_id: '496079599'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '484635029'
+- ? ''
+  : '82'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-181715.04.01.01
+  id: '476637796'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-181715.04.01.01
+  neuron_reconstruction_id: '491392833'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '473601979'
+- ? ''
+  : '83'
+  cre_lines: Cux2-CreERT2;Ai14-207760.03.01.01
+  id: '486558444'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-207760.03.01.01
+  neuron_reconstruction_id: '496163976'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486239338'
+- ? ''
+  : '85'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-181710.05.02.01
+  id: '476630516'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-181710.05.02.01
+  neuron_reconstruction_id: '491771275'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '473020156'
+- ? ''
+  : '86'
+  cre_lines: Cux2-CreERT2;Ai14-211772.05.02.01
+  id: '488462783'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-211772.05.02.01
+  neuron_reconstruction_id: '496085150'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '487661754'
+- ? ''
+  : '87'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-170426.03.01.01
+  id: '329321704'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-170426.03.01.01
+  neuron_reconstruction_id: '491392845'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '320207387'
+- ? ''
+  : '88'
+  cre_lines: Gad2-IRES-Cre;Ai14-177637.02.02.01
+  id: '472447460'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Gad2-IRES-Cre;Ai14-177637.02.02.01
+  neuron_reconstruction_id: '491771124'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '396968721'
+- ? ''
+  : '89'
+  cre_lines: Nr5a1-Cre;Ai14-177834.02.01.01
+  id: '472306544'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-177834.02.01.01
+  neuron_reconstruction_id: '491458970'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '397351623'
+- ? ''
+  : '93'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-172530.06.01.01
+  id: '480624051'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-172530.06.01.01
+  neuron_reconstruction_id: '492413272'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '323865917'
+- ? ''
+  : '94'
+  cre_lines: Nr5a1-Cre;Ai14-178521.04.02.01
+  id: '480633088'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-178521.04.02.01
+  neuron_reconstruction_id: '492100683'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '422738880'
+- ? ''
+  : '95'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-187416.05.01.01
+  id: '478047588'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-187416.05.01.01
+  neuron_reconstruction_id: '491796267'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476048909'
+- ? ''
+  : '96'
+  cre_lines: Ntsr1-Cre;Ai14-180761.02.01.01
+  id: '478513396'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Ntsr1-Cre;Ai14-180761.02.01.01
+  neuron_reconstruction_id: '491459160'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471410185'
+- ? ''
+  : '97'
+  cre_lines: Sst-IRES-Cre;Ai14-173196.03.02.01
+  id: '473835796'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-173196.03.02.01
+  neuron_reconstruction_id: '491458442'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '324466858'
+- ? ''
+  : '98'
+  cre_lines: Pvalb-IRES-Cre;Ai14-201773.04.01.01
+  id: '485611914'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-201773.04.01.01
+  neuron_reconstruction_id: '496079434'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '484742372'
+- ? ''
+  : '100'
+  cre_lines: Pvalb-IRES-Cre;Ai14-170929.04.01.01
+  id: '471081668'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-170929.04.01.01
+  neuron_reconstruction_id: '491458275'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '466245544'
+- ? ''
+  : '101'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-177300.01.02.01
+  id: '472363762'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-177300.01.02.01
+  neuron_reconstruction_id: '491771068'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '395830185'
+- ? ''
+  : '102'
+  cre_lines: Sst-IRES-Cre;Ai14-182533.05.01.01
+  id: '476637747'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-182533.05.01.01
+  neuron_reconstruction_id: '491770886'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '473564515'
+- ? ''
+  : '103'
+  cre_lines: Pvalb-IRES-Cre;Ai14-180633.04.01.01
+  id: '478513415'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-180633.04.01.01
+  neuron_reconstruction_id: '491771159'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471085676'
+- ? ''
+  : '104'
+  cre_lines: Sst-IRES-Cre;Ai14-202726.05.02.01
+  id: '485904766'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-202726.05.02.01
+  neuron_reconstruction_id: '496123885'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485058595'
+- ? ''
+  : '106'
+  cre_lines: Scnn1a-Tg2-Cre;Ai14-176961.06.02.01
+  id: '480613522'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg2-Cre;Ai14-176961.06.02.01
+  neuron_reconstruction_id: '491253847'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '349621141'
+- ? ''
+  : '107'
+  cre_lines: Pvalb-IRES-Cre;Ai14-202470.03.02.01
+  id: '485694403'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-202470.03.02.01
+  neuron_reconstruction_id: '505202170'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485184849'
+- ? ''
+  : '108'
+  cre_lines: Sst-IRES-Cre;Ai14-172534.04.02.01
+  id: '480631187'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-172534.04.02.01
+  neuron_reconstruction_id: '513556739'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '323452196'
+- ? ''
+  : '113'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-168093.03.02.01
+  id: '473863578'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-168093.03.02.01
+  neuron_reconstruction_id: '491119592'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '314831019'
+- ? ''
+  : '114'
+  cre_lines: Cux2-CreERT2;Ai14-209118.03.01.01
+  id: '487245118'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-209118.03.01.01
+  neuron_reconstruction_id: '508278896'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486560376'
+- ? ''
+  : '116'
+  cre_lines: Pvalb-IRES-Cre;Ai14-171555.06.01.01
+  id: '496930338'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-171555.06.01.01
+  neuron_reconstruction_id: '496722847'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '321023397'
+- ? ''
+  : '117'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-168053.05.01.01
+  id: '473863510'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-168053.05.01.01
+  neuron_reconstruction_id: '491392788'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '314804042'
+- ? ''
+  : '118'
+  cre_lines: Sst-IRES-Cre;Ai14-167636.04.01.01
+  id: '472440759'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-167636.04.01.01
+  neuron_reconstruction_id: '491119515'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '313862306'
+- ? ''
+  : '119'
+  cre_lines: Nr5a1-Cre;Ai14-187780.03.02.01
+  id: '477876583'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-187780.03.02.01
+  neuron_reconstruction_id: '491253858'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476457450'
+- ? ''
+  : '121'
+  cre_lines: Htr3a-Cre
+  id: '478045347'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-185556.06.01.01
+  neuron_reconstruction_id: '492413499'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475744706'
+- ? ''
+  : '122'
+  cre_lines: Htr3a-Cre
+  id: '485476031'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-200434.06.02.01
+  neuron_reconstruction_id: '513556274'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '481136138'
+- ? ''
+  : '123'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-194017.03.01.01
+  id: '480051220'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-194017.03.01.01
+  neuron_reconstruction_id: '491770945'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '479179020'
+- ? ''
+  : '126'
+  cre_lines: Pvalb-IRES-Cre;Ai14-209764.03.02.01
+  id: '487246046'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-209764.03.02.01
+  neuron_reconstruction_id: '510121190'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486896849'
+- ? ''
+  : '127'
+  cre_lines: Nr5a1-Cre;Ai14-184650.06.01.01
+  id: '483156585'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-184650.06.01.01
+  neuron_reconstruction_id: '491392945'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475459689'
+- ? ''
+  : '128'
+  cre_lines: Pvalb-IRES-Cre;Ai14-191322.04.02.01
+  id: '479234441'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-191322.04.02.01
+  neuron_reconstruction_id: '491119269'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '478058328'
+- ? ''
+  : '131'
+  cre_lines: Htr3a-Cre
+  id: '477494382'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-182004.05.02.01
+  neuron_reconstruction_id: '491120373'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '474626527'
+- ? ''
+  : '133'
+  cre_lines: Nr5a1-Cre;Ai14-177334.05.02.01
+  id: '480630344'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-177334.05.02.01
+  neuron_reconstruction_id: '527109106'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '386970660'
+- ? ''
+  : '135'
+  cre_lines: Sst-IRES-Cre;Ai14-165865.03.01.01
+  id: '472450023'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-165865.03.01.01
+  neuron_reconstruction_id: '491119181'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '464198958'
+- ? ''
+  : '138'
+  cre_lines: Sst-IRES-Cre;Ai14-187427.04.01.01
+  id: '477838913'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-187427.04.01.01
+  neuron_reconstruction_id: '491119894'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476104386'
+- ? ''
+  : '139'
+  cre_lines: Rbp4-Cre
+  id: '480624414'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-180747.06.01.01
+  neuron_reconstruction_id: '495335491'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471129934'
+- ? ''
+  : '144'
+  cre_lines: Nr5a1-Cre;Ai14-172512.06.02.01
+  id: '478513224'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-172512.06.02.01
+  neuron_reconstruction_id: '491120144'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '321923685'
+- ? ''
+  : '146'
+  cre_lines: Sst-IRES-Cre;Ai14-212983.04.02.01
+  id: '489932551'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-212983.04.02.01
+  neuron_reconstruction_id: '508278685'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '488677994'
+- ? ''
+  : '147'
+  cre_lines: Htr3a-Cre
+  id: '483066358'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-198254.03.02.01
+  neuron_reconstruction_id: '491119526'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '481001895'
+- ? ''
+  : '148'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-187849.06.02.01
+  id: '478048947'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-187849.06.02.01
+  neuron_reconstruction_id: '491392799'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476131588'
+- ? ''
+  : '149'
+  cre_lines: Scnn1a-Tg2-Cre;Ai14-173240.03.02.01
+  id: '480632564'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg2-Cre;Ai14-173240.03.02.01
+  neuron_reconstruction_id: '491770179'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '324521027'
+- ? ''
+  : '151'
+  cre_lines: Htr3a-Cre
+  id: '476679102'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-182494.05.01.01
+  neuron_reconstruction_id: '492100793'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '473943881'
+- ? ''
+  : '152'
+  cre_lines: Rbp4-Cre
+  id: '482520370'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-196624.05.02.01
+  neuron_reconstruction_id: '512328248'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '479721491'
+- ? ''
+  : '155'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-212873.04.01.01
+  id: '489932682'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-212873.04.01.01
+  neuron_reconstruction_id: '510987644'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '488695444'
+- ? ''
+  : '156'
+  cre_lines: Nr5a1-Cre;Ai14-172512.05.01.01
+  id: '473834758'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-172512.05.01.01
+  neuron_reconstruction_id: '495334973'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '321906005'
+- ? ''
+  : '157'
+  cre_lines: Htr3a-Cre
+  id: '478045081'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-185347.03.02.01
+  neuron_reconstruction_id: '492100857'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475585413'
+- ? ''
+  : '159'
+  cre_lines: Htr3a-Cre
+  id: '477313251'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-182497.03.01.01
+  neuron_reconstruction_id: '491119305'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '474267418'
+- ? ''
+  : '160'
+  cre_lines: Pvalb-IRES-Cre;Ai14-195045.05.02.01
+  id: '479694384'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-195045.05.02.01
+  neuron_reconstruction_id: '491119688'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '478793814'
+- ? ''
+  : '162'
+  cre_lines: Sst-IRES-Cre;Ai14-202729.03.02.01
+  id: '485720616'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-202729.03.02.01
+  neuron_reconstruction_id: '496079506'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485466109'
+- ? ''
+  : '163'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-201965.05.01.01
+  id: '485591776'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-201965.05.01.01
+  neuron_reconstruction_id: '491459182'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '484564503'
+- ? ''
+  : '166'
+  cre_lines: Scnn1a-Tg2-Cre;Ai14-171062.06.02.01
+  id: '472300877'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg2-Cre;Ai14-171062.06.02.01
+  neuron_reconstruction_id: '491119500'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '320668879'
+- ? ''
+  : '167'
+  cre_lines: Pvalb-IRES-Cre;Ai14-178310.02.01.01
+  id: '480633479'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-178310.02.01.01
+  neuron_reconstruction_id: '513557093'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '341442651'
+- ? ''
+  : '168'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-209101.04.01.01
+  id: '487245719'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-209101.04.01.01
+  neuron_reconstruction_id: '512328466'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486893033'
+- ? ''
+  : '169'
+  cre_lines: Sst-IRES-Cre;Ai14-173191.06.02.01
+  id: '480629276'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-173191.06.02.01
+  neuron_reconstruction_id: '491119812'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '324266189'
+- ? ''
+  : '170'
+  cre_lines: Ntsr1-Cre;Ai14-181184.05.02.01
+  id: '480632594'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Ntsr1-Cre;Ai14-181184.05.02.01
+  neuron_reconstruction_id: '491392868'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471786879'
+- ? ''
+  : '172'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-192794.05.01.01
+  id: '479427369'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-192794.05.01.01
+  neuron_reconstruction_id: '492413653'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '478499902'
+- ? ''
+  : '174'
+  cre_lines: Pvalb-IRES-Cre;Ai14-212440.05.02.01
+  id: '489931686'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-212440.05.02.01
+  neuron_reconstruction_id: '500961631'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '488501071'
+- ? ''
+  : '175'
+  cre_lines: Htr3a-Cre
+  id: '479234530'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-192819.04.02.01
+  neuron_reconstruction_id: '491119743'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '478107198'
+- ? ''
+  : '176'
+  cre_lines: Nr5a1-Cre;Ai14-177333.03.01.01
+  id: '473862496'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-177333.03.01.01
+  neuron_reconstruction_id: '491771090'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '382982932'
+- ? ''
+  : '177'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-204766.03.02.01
+  id: '486509958'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-204766.03.02.01
+  neuron_reconstruction_id: '510988665'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485931158'
+- ? ''
+  : '179'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-187416.06.02.01
+  id: '478047618'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-187416.06.02.01
+  neuron_reconstruction_id: '485996843'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476049169'
+- ? ''
+  : '184'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-187852.05.02.01
+  id: '477839613'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-187852.05.02.01
+  neuron_reconstruction_id: '491392856'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476216637'
+- ? ''
+  : '188'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197330.06.01.01
+  id: '482583564'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-197330.06.01.01
+  neuron_reconstruction_id: '491770970'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '480087928'
+- ? ''
+  : '189'
+  cre_lines: Htr3a-Cre
+  id: '480056382'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-195039.04.02.01
+  neuron_reconstruction_id: '491119581'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '479220013'
+- ? ''
+  : '191'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-172651.01.01.01
+  id: '472434498'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-172651.01.01.01
+  neuron_reconstruction_id: '491770168'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '324025371'
+- ? ''
+  : '193'
+  cre_lines: Nr5a1-Cre;Ai14-202954.03.01.01
+  id: '485720587'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-202954.03.01.01
+  neuron_reconstruction_id: '514342445'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485468180'
+- ? ''
+  : '194'
+  cre_lines: Sst-IRES-Cre;Ai14-183332.06.02.01
+  id: '477510985'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-183332.06.02.01
+  neuron_reconstruction_id: '495889919'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475068599'
+- ? ''
+  : '195'
+  cre_lines: Rbp4-Cre
+  id: '486052435'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-203498.04.01.01
+  neuron_reconstruction_id: '496085098'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485574721'
+- ? ''
+  : '196'
+  cre_lines: Slc17a6-IRES-Cre;Ai14-190263.04.01.01
+  id: '478809991'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Slc17a6-IRES-Cre;Ai14-190263.04.01.01
+  neuron_reconstruction_id: '491392956'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '477127614'
+- ? ''
+  : '198'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-176684.04.01.01
+  id: '480630395'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-176684.04.01.01
+  neuron_reconstruction_id: '491771001'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '329550137'
+- ? ''
+  : '200'
+  cre_lines: Nr5a1-Cre;Ai14-187779.04.01.01
+  id: '477876559'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-187779.04.01.01
+  neuron_reconstruction_id: '491771365'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476455864'
+- ? ''
+  : '201'
+  cre_lines: Cux2-CreERT2;Ai14-205530.06.02.01
+  id: '486511108'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-205530.06.02.01
+  neuron_reconstruction_id: '496085272'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485912047'
+- ? ''
+  : '202'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-180214.05.02.01
+  id: '480624251'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-180214.05.02.01
+  neuron_reconstruction_id: '492413246'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '469793303'
+- ? ''
+  : '203'
+  cre_lines: Pvalb-IRES-Cre;Ai14-172101.05.02.01
+  id: '480631048'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-172101.05.02.01
+  neuron_reconstruction_id: '491119710'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '321708130'
+- ? ''
+  : '204'
+  cre_lines: Htr3a-Cre
+  id: '478045226'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-185553.05.01.01
+  neuron_reconstruction_id: '491119938'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475622793'
+- ? ''
+  : '205'
+  cre_lines: Nr5a1-Cre;Ai14-177334.05.01.01
+  id: '472451419'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-177334.05.01.01
+  neuron_reconstruction_id: '491459171'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '386049446'
+- ? ''
+  : '208'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197851.04.01.01
+  id: '482529696'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-197851.04.01.01
+  neuron_reconstruction_id: '491770985'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '480351780'
+- ? ''
+  : '209'
+  cre_lines: Sst-IRES-Cre;Ai14-188740.03.02.01
+  id: '477878284'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-188740.03.02.01
+  neuron_reconstruction_id: '491119369'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476686112'
+- ? ''
+  : '211'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197332.04.02.01
+  id: '482655070'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-197332.04.02.01
+  neuron_reconstruction_id: '492100936'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '480116737'
+- ? ''
+  : '212'
+  cre_lines: Htr3a-Cre
+  id: '478045202'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-185555.03.01.01
+  neuron_reconstruction_id: '491119960'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475622680'
+- ? ''
+  : '215'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-168052.03.02.01
+  id: '472299294'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-168052.03.02.01
+  neuron_reconstruction_id: '491770140'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '314642645'
+- ? ''
+  : '217'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-172530.03.01.01
+  id: '472455509'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-172530.03.01.01
+  neuron_reconstruction_id: '491771137'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '323834998'
+- ? ''
+  : '219'
+  cre_lines: Rbp4-Cre
+  id: '473871592'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-175331.06.01.01
+  neuron_reconstruction_id: '501146939'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '325941643'
+- ? ''
+  : '221'
+  cre_lines: Rbp4-Cre
+  id: '488083972'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-205727.02.02.01
+  neuron_reconstruction_id: '512328534'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486132712'
+- ? ''
+  : '223'
+  cre_lines: Sst-IRES-Cre;Ai14-182533.03.01.01
+  id: '476637699'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-182533.03.01.01
+  neuron_reconstruction_id: '491770708'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '473540161'
+- ? ''
+  : '224'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-187852.04.02.01
+  id: '480361288'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-187852.04.02.01
+  neuron_reconstruction_id: '484775243'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476218657'
+- ? ''
+  : '226'
+  cre_lines: Sst-IRES-Cre;Ai14-173196.03.01.01
+  id: '472304676'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-173196.03.01.01
+  neuron_reconstruction_id: '491770223'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '324493977'
+- ? ''
+  : '227'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-194322.05.02.01
+  id: '479427516'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-194322.05.02.01
+  neuron_reconstruction_id: '492413664'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '478586295'
+- ? ''
+  : '230'
+  cre_lines: Sst-IRES-Cre;Ai14-192340.03.01.01
+  id: '479234670'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-192340.03.01.01
+  neuron_reconstruction_id: '491119721'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '478396248'
+- ? ''
+  : '231'
+  cre_lines: Pvalb-IRES-Cre;Ai14-215471.02.01.01
+  id: '491623973'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-215471.02.01.01
+  neuron_reconstruction_id: '514342400'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '490387590'
+- ? ''
+  : '233'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-204764.04.01.01
+  id: '486508647'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-204764.04.01.01
+  neuron_reconstruction_id: '496001039'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485836906'
+- ? ''
+  : '234'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197353.06.02.01
+  id: '482657528'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-197353.06.02.01
+  neuron_reconstruction_id: '496079587'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '480169178'
+- ? ''
+  : '235'
+  cre_lines: Sst-IRES-Cre;Ai14-182533.04.02.01
+  id: '476637723'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-182533.04.02.01
+  neuron_reconstruction_id: '491119394'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '473543792'
+- ? ''
+  : '236'
+  cre_lines: Rbp4-Cre
+  id: '486509010'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-204745.05.01.01
+  neuron_reconstruction_id: '496001050'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '485880739'
+- ? ''
+  : '237'
+  cre_lines: Pvalb-IRES-Cre;Ai14-180633.05.01.01
+  id: '478513437'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-180633.05.01.01
+  neuron_reconstruction_id: '491119234'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471077857'
+- ? ''
+  : '239'
+  cre_lines: Sst-IRES-Cre;Ai14-188741.06.02.01
+  id: '477878554'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-188741.06.02.01
+  neuron_reconstruction_id: '491771387'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476754635'
+- ? ''
+  : '245'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-201967.03.01.01
+  id: '485909125'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-201967.03.01.01
+  neuron_reconstruction_id: '496123870'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '484679812'
+- ? ''
+  : '248'
+  cre_lines: Sst-IRES-Cre;Ai14-183332.05.01.01
+  id: '477510918'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-183332.05.01.01
+  neuron_reconstruction_id: '491771290'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '475057898'
+- ? ''
+  : '249'
+  cre_lines: Cux2-CreERT2;Ai14-198017.05.01.01
+  id: '485510685'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Cux2-CreERT2;Ai14-198017.05.01.01
+  neuron_reconstruction_id: '496121314'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '483061182'
+- ? ''
+  : '250'
+  cre_lines: Ntsr1-Cre;Ai14-171080.04.02.01
+  id: '480631402'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Ntsr1-Cre;Ai14-171080.04.02.01
+  neuron_reconstruction_id: '492413307'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '466632464'
+- ? ''
+  : '251'
+  cre_lines: Rbp4-Cre
+  id: '486556714'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rbp4-Cre_KL100;Ai14-205727.04.02.01
+  neuron_reconstruction_id: '496085260'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '486110216'
+- ? ''
+  : '252'
+  cre_lines: Pvalb-IRES-Cre;Ai14-180633.03.02.01
+  id: '478513411'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-180633.03.02.01
+  neuron_reconstruction_id: '500919203'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '471077468'
+- ? ''
+  : '256'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-187854.03.02.01
+  id: '477839642'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-187854.03.02.01
+  neuron_reconstruction_id: '491253934'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '476263004'
+- ? ''
+  : '257'
+  cre_lines: Sst-IRES-Cre;Ai14-172534.06.01.01
+  id: '478513459'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Sst-IRES-Cre;Ai14-172534.06.01.01
+  neuron_reconstruction_id: '491770330'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '323475862'
+- ? ''
+  : '258'
+  cre_lines: Scnn1a-Tg3-Cre;Ai14-168093.03.01.01
+  id: '473862845'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Scnn1a-Tg3-Cre;Ai14-168093.03.01.01
+  neuron_reconstruction_id: '491770152'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '314900022'
+- ? ''
+  : '259'
+  cre_lines: Nr5a1-Cre;Ai14-169248.04.02.01
+  id: '329322394'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Nr5a1-Cre;Ai14-169248.04.02.01
+  neuron_reconstruction_id: '491253825'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '318733871'
+- ? ''
+  : '262'
+  cre_lines: Pvalb-IRES-Cre;Ai14-195049.06.01.01
+  id: '479694359'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Pvalb-IRES-Cre;Ai14-195049.06.01.01
+  neuron_reconstruction_id: '491119604'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '478828646'
+- ? ''
+  : '263'
+  cre_lines: Htr3a-Cre
+  id: '479234506'
+  in_nmldb: 'FALSE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Htr3a-Cre_NO152;Ai14-192821.05.01.01
+  neuron_reconstruction_id: '491771409'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '478110866'
+- ? ''
+  : '264'
+  cre_lines: Rorb-IRES2-Cre-D;Ai14-197352.06.01.01
+  id: '482657381'
+  in_nmldb: 'TRUE'
+  legend: nan
+  model_type: perisomatic
+  name: Biophysical - perisomatic_Rorb-IRES2-Cre-D;Ai14-197352.06.01.01
+  neuron_reconstruction_id: '491253869'
+  neuronal_model_template_id: '329230710'
+  specimen_id: '480124551'

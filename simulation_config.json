@@ -1,0 +1,61 @@
+{
+    "manifest": {
+        "$BASE_DIR": ".",
+        "$OUTPUT_DIR": "$BASE_DIR/output",
+        "$INPUT_DIR": "$BASE_DIR/inputs"
+    },
+    "run": {
+        "tstop": 1050.0,
+        "dt": 0.01,
+        "dL": 20.0,
+        "spike_threshold": -30,
+        "nsteps_block": 5000
+    },
+    "target_simulator": "NEURON",
+    "network": "$BASE_DIR/circuit_config.json",
+    "conditions": {
+        "celsius": 34.0,
+        "v_init": -80
+    },
+    "node_sets_file": "$BASE_DIR/node_sets.json",
+    "inputs": {
+        "IClamp130": {
+            "input_type": "current_clamp",
+            "module": "IClamp",
+            "delay": 1000,
+            "duration": 50,
+            "amp": 0.39,
+            "node_set": "rheobase-130"
+        },
+        "IClamp29": {
+            "input_type": "current_clamp",
+            "module": "IClamp",
+            "delay": 1000,
+            "duration": 50,
+            "amp": 0.08700000000000001,
+            "node_set": "rheobase-29"
+        },
+        "IClamp50": {
+            "input_type": "current_clamp",
+            "module": "IClamp",
+            "delay": 1000,
+            "duration": 50,
+            "amp": 0.15,
+            "node_set": "rheobase-50"
+        }
+    },
+    "output": {
+        "log_file": "log.txt",
+        "output_dir": "$OUTPUT_DIR",
+        "spikes_file": "spikes.h5",
+        "spikes_sort_order": "time"
+    },
+    "reports": {
+        "membrane_potential": {
+            "cells": "recorded_cells",
+            "variable_name": "v",
+            "module": "membrane_report",
+            "sections": "soma"
+        }
+    }
+}
