@@ -26,3 +26,14 @@ In the script, specify type of models (flag = 'TEST', 'AA', 'PS', 'ALL') and num
 
 ## run.py
 The script will prompt you for the name of the output directory.
+
+## Example Output
+### Voltage trace
+![cell_0-ps-trace](https://user-images.githubusercontent.com/22531287/155786147-15ba4159-300f-4feb-bcfa-e0612752370a.png)  
+The top figure is the trace for the entire duration of 1050ms where current is injected after 1000ms and the bottom is a 10ms trace around the first valid spike. If there is not a valid spike, the bottom figure defaults to the valid spike time of the very first model in the simulation.
+
+### valid_spikes_[out_dir].yaml
+YAML file containing whether the cell spiked, based on a threshold of -30mV, and the counts of all-active and perisomatic models that did spike.
+
+### waveforms_df.pkl
+DataFrame that contains spike times and simulation and model metadata.
